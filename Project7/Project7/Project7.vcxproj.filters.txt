@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="basketball.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="BrickWallTexture.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="car.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="dawg.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="earth_clouds.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="face.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="jupitermap.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="KalachakraSera.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="marble-background.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="RoughWood.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="star.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="tennis.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="carpet.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="legs.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="table1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="window.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="wall.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="quilt.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="pillow.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="door.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="closetS.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="closetF.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="bedsheet.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="table2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="razerb.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="map.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="EduPhong.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GlGeomBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GlGeomCylinder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GlGeomSphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GlGeomTorus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GlShaderMgr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LinearR3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LinearR4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyGeometries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhongData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RgbImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureProj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="EduPhong.glsl">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="MyShaders.glsl">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="MyShadersDemo.glsl">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="Project6_MipMap_Demo_F22.exe">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="Project6_NoMipMap_Demo_F22.exe">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EduPhong.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GlGeomBase.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GlGeomCylinder.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GlGeomSphere.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GlGeomTorus.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GlShaderMgr.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LinearR4.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MathMisc.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyGeometries.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhongData.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RgbImage.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureProj.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

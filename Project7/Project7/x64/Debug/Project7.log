@@ -1,0 +1,4 @@
+﻿  MyGeometries.cpp
+H:\Documents\Project7\Project7\MyGeometries.cpp(1821,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+H:\Documents\Project7\Project7\MyGeometries.cpp(1822,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project7.vcxproj -> H:\Documents\Project7\x64\Debug\Project7.exe
